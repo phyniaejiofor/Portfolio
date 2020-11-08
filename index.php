@@ -63,9 +63,9 @@
       <div class="row banner">
          <div class="banner-text">
             <h1 class="responsive-headline">Ejiofor Chiamaka Phynia</h1>
-            <h3>A software developer </h3>
-            <hr />
-            <ul class="social">
+            <h3 class="responsive-headline">A software developer </h3>
+      
+            <ul class="social responsive-headline  ">
                <li><a href="https://github.com/phyniaejiofor" target="blank"><i class="fa fa-github"></i></a></li>
                <li><a href="https://twitter.com/Phynia4" target="blank"><i class="fa fa-twitter"></i></a></li>
                <li><a href="https://www.linkedin.com/in/chiamaka-ejiofor" target="blank"><i class="fa fa-linkedin"></i></a></li>
